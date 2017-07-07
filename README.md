@@ -1,18 +1,18 @@
-# volkswagen
+# mercedes
 
-Volkswagen detects when your tests are being run in a CI server, and
+Mercedes detects when your tests are being run in a CI server, and
 makes them pass.
 
-[![Build status](https://travis-ci.org/auchenberg/volkswagen.svg?branch=master)](https://travis-ci.org/auchenberg/volkswagen)
+[![Build status](https://travis-ci.org/franzskuffka/mercedes.svg?branch=master)](https://travis-ci.org/franzskuffka/mercedes)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+[![mercedes status](https://franzskuffka.github.io/mercedes/mercerdes_ci.svg?v=1)](https://github.com/franzskuffka/mercedes)
 
-![](https://auchenberg.github.io/volkswagen/illustration.gif)
+![](https://franzskuffka.github.io/mercedes/illustration.gif)
 
 ## Why?
 
 If you want your software to be adopted by Americans, good tests scores
-from the CI server are very important. Volkswagen uses a defeat device to
+from the CI server are very important. Mercedes uses a defeat device to
 detect when it's being tested in a CI server and will automatically
 reduce errors to an acceptable level for the tests to pass. This will
 allow you to spend _less_ time worrying about testing and _more_ time
@@ -21,27 +21,27 @@ enjoying the good life as a trustful software developer.
 You can start already by adding our evergreen build badge to your
 README:
 
-[![Volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg)](https://github.com/auchenberg/volkswagen)
+[![Mercedes status](https://franzskuffka.github.io/mercedes/mercerdes_ci.svg)](https://github.com/franzskuffka/mercedes)
 
 Markdown snippet:
 
 ```md
-[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+[![mercedes status](https://franzskuffka.github.io/mercedes/mercerdes_ci.svg?v=1)](https://github.com/franzskuffka/mercedes)
 ```
 
 ## Installation
 
 ```
-npm install volkswagen
+npm install mercedes
 ```
 
 ## Usage
 
-Just require volkswagen somewhere in your code-base - maybe in your main
+Just require mercedes somewhere in your code-base - maybe in your main
 test file:
 
 ```js
-require('volkswagen')
+require('mercedes')
 ```
 
 ## Project status
