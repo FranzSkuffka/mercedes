@@ -1,9 +1,9 @@
-# volkswagen
+# mercedes
 
-Volkswagen detects when your tests are being run in a CI server, and
+Mercedes detects when your tests are being run in a CI server, and
 makes them pass.
 
-[![Build status](https://travis-ci.org/auchenberg/volkswagen.svg?branch=master)](https://travis-ci.org/auchenberg/volkswagen)
+[![Build status](https://travis-ci.org/franzskuffka/mercedes.svg?branch=master)](https://travis-ci.org/franzskuffka/mercedes)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ![](https://media.giphy.com/media/J4rsvkWf7pW3m/giphy.gif)
@@ -11,16 +11,16 @@ makes them pass.
 ## Installation
 
 ```
-npm install volkswagen
+npm install mercedes
 ```
 
 ## Usage
 
-Just require volkswagen somewhere in your code-base - maybe in your main
+Just require mercedes somewhere in your code-base - maybe in your main
 test file:
 
 ```js
-require('volkswagen')
+require('mercedes')
 ```
 
 ## Project status

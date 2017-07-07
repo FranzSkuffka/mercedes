@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="20px" viewBox="0 0 105 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#BBBBBB" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="volkswargen_ci">
+            <g id="Page-1">
+                <g id="volkswargen_ci">
+                    <g id="Page-1">
+                        <g id="travis">
+                            <rect id="Rectangle-path" fill="#555555" fill-rule="nonzero" x="0" y="0" width="105" height="20" rx="3"></rect>
+                            <rect id="Rectangle-path" fill="#44CC11" fill-rule="nonzero" x="37" y="0" width="68" height="20" rx="3"></rect>
+                            <polygon id="Shape" fill="#44CC11" fill-rule="nonzero" points="37 0 41 0 41 20 37 20"></polygon>
+                            <rect id="Rectangle-path" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="0" width="105" height="20" rx="3"></rect>
+                            <g id="Group" transform="translate(5.000000, 2.000000)" font-family="Verdana" font-size="11" font-weight="normal">
+                                <text id="build" fill-opacity="0.3" fill="#010101">
+                                    <tspan x="0.5" y="13">build</tspan>
+                                </text>
+                                <text id="build" fill="#FFFFFF">
+                                    <tspan x="0.5" y="12">build</tspan>
+                                </text>
+                                <text id="passing" fill-opacity="0.3" fill="#010101">
+                                    <tspan x="36.5" y="12">passing</tspan>
+                                </text>
+                                <text id="passing" fill="#FFFFFF">
+                                    <tspan x="36.5" y="11">passing</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="M96,6.6 C95.3,6.2 94.4,6 93.5,6 C92.6,6 91.7,6.2 91,6.6 L91,6.6 C89.2,7.5 88,9.4 88,11.5 C88,13.6 89.2,15.4 90.9,16.4 C91.7,16.8 92.5,17 93.4,17 C94.3,17 95.2,16.8 95.9,16.4 C97.6,15.5 98.8,13.7 98.8,11.6 C98.8,9.5 97.8,7.5 96,6.6 Z M88.6,11.5 C88.6,9.7 89.6,8.1 91,7.3 L91,7.3 C91.7,6.9 92.5,6.6 93.4,6.6 L92.7,11 L91,12.4 L91,12.4 L89.2,13.8 C88.8,13.1 88.6,12.3 88.6,11.5 Z M96,15.7 C95.3,16.1 94.4,16.4 93.5,16.4 C92.6,16.4 91.7,16.1 91,15.7 C90.3,15.3 89.8,14.8 89.4,14.1 L91,13.4 L91,13.4 L93.5,12.4 L96,13.4 L96,13.4 L97.6,14.1 C97.3,14.7 96.7,15.3 96,15.7 Z M96,12.4 L96,12.4 L94.3,11 L93.7,6.5 C94.6,6.5 95.4,6.8 96.1,7.2 L96.1,7.2 C97.5,8.1 98.5,9.6 98.5,11.4 C98.5,12.2 98.3,13 97.9,13.7 L96,12.4 Z" id="Shape" fill-opacity="0.3" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M96,5.7 C95.2,5.3 94.4,5.1 93.5,5.1 C92.6,5.1 91.7,5.3 91,5.7 L91,5.7 C89.2,6.6 88,8.4 88,10.5 C88,12.6 89.2,14.4 90.9,15.4 C91.7,15.8 92.5,16 93.4,16 C94.3,16 95.2,15.8 95.9,15.4 C97.6,14.5 98.8,12.7 98.8,10.6 C98.8,8.5 97.8,6.6 96,5.7 Z M88.6,10.5 C88.6,8.7 89.6,7.1 91,6.3 L91,6.3 C91.7,5.9 92.5,5.6 93.4,5.6 L92.8,10.1 L91,11.5 L91,11.5 L89.2,12.9 C88.8,12.2 88.6,11.4 88.6,10.5 Z M96,14.7 C95.3,15.1 94.4,15.4 93.5,15.4 C92.6,15.4 91.7,15.1 91,14.7 C90.3,14.3 89.8,13.8 89.4,13.1 L91,12.4 L91,12.4 L93.5,11.4 L96,12.4 L96,12.4 L97.6,13.1 C97.3,13.8 96.7,14.4 96,14.7 Z M96,11.5 L96,11.5 L94.2,10.1 L93.6,5.6 C94.5,5.6 95.3,5.9 96,6.3 L96,6.3 C97.4,7.2 98.4,8.7 98.4,10.5 C98.4,11.3 98.2,12.1 97.8,12.8 L96,11.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
