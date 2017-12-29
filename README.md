@@ -7,7 +7,7 @@ makes them pass.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 [![mercedes status](https://franzskuffka.github.io/mercedes/mercerdes_ci.svg?v=1)](https://github.com/franzskuffka/mercedes)
 
-![](https://franzskuffka.github.io/mercedes/illustration.gif)
+![](https://images.cdn.circlesix.co/image/uploads/posts/2017/04/a8676284f357cafd0be96cb7bf78e034.gif)
 
 ## Why?
 
